@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #36393f;
+    margin: auto;
+}
+
+h1 {
+    color:#ffffff;
+    text-align: center;
+}
+
+p {
+    color: #43c4db;
+    text-align:center;
+}
+
+p.header {
+    text-align:left;
+    padding:10px;
+}
+
+a {
+    text-decoration: none;
+    color: #43c4db;
+}
+
+section {
+    text-align: center;
+}
+
+button {
+    padding: 10px 10px;
+    background-color: black;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: green;
+}
+
